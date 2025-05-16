@@ -41,7 +41,3 @@
 - ⚙️ GitHub: [github.com/elieljrdl](https://github.com/elieljrdl)  
 
 ---
-
-<p align="center">
-  🚀 “Transformando problemas em soluções com código.”
-</p>
