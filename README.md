@@ -50,7 +50,7 @@
 
 <p align="left">
   <img 
-    src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elieljrdl&show_icons=true&theme=radical)
+    src=(https://github-readme-stats.vercel.app/api?username=elieljrdl&show_icons=true&theme=radical)
   />
 </p>
 
