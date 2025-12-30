@@ -48,7 +48,11 @@
 - ⚙️ GitHub: [github.com/elieljrdl](https://github.com/elieljrdl)  
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=elieljrdl&show_icons=true&theme=default&hide_title=true"
+    alt="GitHub Stats"
+  />
+</p>
 
 ---
