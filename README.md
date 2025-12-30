@@ -44,7 +44,7 @@
 ### 📫 Como me encontrar
 
 - 📧 E-mail: **elieljrdl1@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/eliel-lopes-7b20481a1/)
+- 💼 LinkedIn: [linkedin.com/in/eliel-lopes-7b20481al](https://www.linkedin.com/in/eliel-lopes-7b20481a1/)
 - ⚙️ GitHub: [github.com/elieljrdl](https://github.com/elieljrdl)  
 
 ---
