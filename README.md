@@ -47,4 +47,12 @@
 - 💼 LinkedIn: [linkedin.com/in/eliel-lopes-7b20481al](https://www.linkedin.com/in/eliel-lopes-7b20481a1/)
 - ⚙️ GitHub: [github.com/elieljrdl](https://github.com/elieljrdl)  
 
+
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=elieljrdl&layout=compact&langs_count=8&theme=default"
+    alt="Top Langs"
+  />
+</p>
+
 ---
